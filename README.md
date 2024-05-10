@@ -16,7 +16,7 @@ $ npm run start:dev
 ## 4. ToDo
 
 - [x] Aauthorization
-- [ ] Moderation - checking compliance with OpenAI policy
+- [x] Moderation - checking compliance with OpenAI policy
 - [ ] Task type qualification
 - [ ] Google ToDoList support
 - [ ] Google Caledarz support
