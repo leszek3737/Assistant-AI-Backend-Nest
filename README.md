@@ -15,7 +15,7 @@ $ npm run start:dev
 ```
 ## 4. ToDo
 
-- [ ] Aauthorization
+- [x] Aauthorization
 - [ ] Moderation - checking compliance with OpenAI policy
 - [ ] Task type qualification
 - [ ] Google ToDoList support
