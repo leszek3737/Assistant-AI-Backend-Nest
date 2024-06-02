@@ -6,8 +6,11 @@ import { OpenaiService } from 'src/openai/openai.service';
 @Module({
     imports: [],
     controllers: [
-        CompletionsController,],
+        CompletionsController,
+    ],
     providers: [
-        CompletionsService,OpenaiService],
+        CompletionsService,
+        OpenaiService,
+    ],
 })
 export class CompletionsModule { }

@@ -17,11 +17,7 @@ $ npm run start:dev
 
 - [x] Aauthorization
 - [x] Moderation - checking compliance with OpenAI policy
-- [ ] Task type qualification
+- [x] Type qualification
 - [ ] Google ToDoList support
 - [ ] Google Caledarz support
 - [ ] Handling the conversation with models
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
